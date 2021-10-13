@@ -9,6 +9,7 @@ public class Mascota {
     private String raza;
     private Usuario usuario;
     private String caca;
+    private String caca 2;
 
     public Mascota() {
     }
